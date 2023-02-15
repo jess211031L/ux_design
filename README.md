@@ -11,5 +11,3 @@ __BOSTON HOTEL__
 # Page layout
 
 ___
-
-![Screenshot_20230210_032715](https://user-images.githubusercontent.com/93179715/219169260-bf8e6943-4c7c-46d7-b8d7-e55a7fe9f994.png)
