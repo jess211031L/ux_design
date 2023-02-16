@@ -35,8 +35,8 @@ Boston hotel webpage is to attract and provide information to pet owners who are
 
 Boston can be a valuable resource for travelers who are unsure of how to travel with their pets. The webpage can provide information on pet policies, such as size and breed restrictions, pet fees, and rules for pets in public areas. By providing clear information upfront, hotels can help pet owners make informed decisions about their travel plans and reduce the stress of traveling with a pet.
 
-## Software Used
-- VScode, Notepad++
+
+# About Page
 
 <img src = "wed1.png" />
 
@@ -46,3 +46,45 @@ Boston can be a valuable resource for travelers who are unsure of how to travel 
 <td><img src = "wed3.png" /></td> 
 </tr>
 </table>
+
+# Accommodation Page
+
+<img src = "wed1.png" />
+
+<table>
+<tr>
+<td><img src = "wed2.png" /></td>
+<td><img src = "wed3.png" /></td> 
+</tr>
+</table>
+
+
+# Wedding Page
+
+<img src = "wed1.png" />
+
+<table>
+<tr>
+<td><img src = "wed2.png" /></td>
+<td><img src = "wed3.png" /></td> 
+</tr>
+</table>
+
+# Pet Services
+<table>
+<tr>
+<td><img src = "petshop.png" /></td>
+<td><img src = "petservice.png" /></td>
+<td><img src = "petcare.png" /></td> 
+</tr>
+</table>
+
+## Conclusion
+
+
+## Roles 
+- <strong>Jess</strong>: Boston (main page), Wedding, Petshop, Pet sevrice, Petcare Service 
+- <strong>Corliss</strong>: About, Dining 
+- <strong>Gavin</strong>: Offers, Accommodations
+- <strong>Macarius</strong>: Contact
+
