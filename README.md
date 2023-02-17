@@ -2,11 +2,17 @@
 
 __BOSTON HOTEL__
 
-- __[Main page](https://nodeca-github.io/pica/demo/)__ - high quality and fast image
-- __[Wedding page](https://nodeca-github.io/pica/demo/)__ - high quality and fast image
-- __[Pet store page](https://nodeca-github.io/pica/demo/)__ - high quality and fast image
-- __[Pet service page](https://nodeca-github.io/pica/demo/)__ - high quality and fast image
-- __[Pet care page](https://nodeca-github.io/pica/demo/)__ - high quality and fast image
+- __[Main page](https://nodeca-github.io/pica/demo/)__ - Includes booking of hotel, services provided, pet section and reviews.
+- __[Pet store page](https://nodeca-github.io/pica/demo/)__ - Buying of pet treats
+- __[Pet service page](https://nodeca-github.io/pica/demo/)__ - Types of Pet service 
+- __[Pet care page](https://nodeca-github.io/pica/demo/)__ - Type of Pet care
+- __[About page](https://nodeca-github.io/pica/demo/)__ - Rules and regulation of the hotel 
+- __[Dining page](https://nodeca-github.io/pica/demo/)__ - Types of cusines, restaurants and information of dining areas
+- __[Offers page](https://nodeca-github.io/pica/demo/)__ - Types of hotel features 
+- __[Accommodation page](https://nodeca-github.io/pica/demo/)__ - Types of Accommodations avaliable 
+- __[Wedding page](https://nodeca-github.io/pica/demo/)__ - Includes types of wedding venues, reviews and wedding packages
+- __[Contact page](https://nodeca-github.io/pica/demo/)__ - Contact us page
+
 
 # Page layout
 
@@ -38,25 +44,24 @@ Boston can be a valuable resource for travelers who are unsure of how to travel 
 
 # About Page
 
-<img src = "wed1.png" />
+<img src = "About.png" />
 
 <table>
 <tr>
-<td><img src = "wed2.png" /></td>
-<td><img src = "wed3.png" /></td> 
+<td><img src = "about1.png" /></td>
+<td><img src = "about2.png" /></td> 
 </tr>
 </table>
+
+
+# Dining Page
+
+<img src = "din.png" />
+
 
 # Accommodation Page
 
-<img src = "wed1.png" />
-
-<table>
-<tr>
-<td><img src = "wed2.png" /></td>
-<td><img src = "wed3.png" /></td> 
-</tr>
-</table>
+<img src = "offer.png" />
 
 
 # Wedding Page
@@ -80,6 +85,7 @@ Boston can be a valuable resource for travelers who are unsure of how to travel 
 </table>
 
 ## Conclusion
+In conclusion, building a pet-friendly webpage can be a valuable marketing tool for hotels that want to attract and cater to pet owners. A pet-friendly webpage can provide information on pet policies, amenities, and services, as well as local pet-friendly attractions and activities, to help pet owners make informed decisions about their travel plans and enjoy a positive experience with their pets.
 
 
 ## Roles 
